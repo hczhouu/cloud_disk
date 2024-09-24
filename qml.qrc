@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qmls/LeftMenus.qml</file>
+        <file>qmls/AllFilesPage.qml</file>
+        <file>qmls/DownloadPage.qml</file>
+        <file>qmls/UploadPage.qml</file>
+        <file>qmls/CompletePage.qml</file>
+        <file>qmls/CompleteTableView.qml</file>
+        <file>qmls/AllFilesTableView.qml</file>
+        <file>qmls/AllFilesGridView.qml</file>
+        <file>qmls/AddFolderPopup.qml</file>
+        <file>qmls/MessagePopup.qml</file>
+        <file>qmls/UploadTableView.qml</file>
+        <file>qmls/DownloadTableView.qml</file>
+    </qresource>
+</RCC>
